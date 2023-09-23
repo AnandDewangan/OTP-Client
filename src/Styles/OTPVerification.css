@@ -1,0 +1,46 @@
+.topSection {
+  width: 132px;
+  height: 125px;
+  position: absolute;
+  top: 100px;
+  left: 122px;
+}
+.secondTopSection {
+  width: 278px;
+  height: 23px;
+  position: absolute;
+  top: 289px;
+  left: 47px;
+}
+.lastTopSection {
+  position: absolute;
+  top: 353px;
+  left: 53px;
+  text-align: center;
+}
+.middleSection {
+  height: 48px;
+  position: absolute;
+  top: 452px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 25px;
+}
+.otp-inputs {
+  border: 1px solid black;
+  padding: 10px 20px;
+  width: 280px;
+  border-radius: 10px;
+}
+.secondLastSection {
+    position: absolute;
+    bottom: 182px;
+    left: 55px;
+}
+.lastSection {
+    position: absolute;
+    bottom: 118px;
+    left: 75px;
+    cursor: pointer;
+} 
